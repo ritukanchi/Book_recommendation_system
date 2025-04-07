@@ -1,3 +1,9 @@
+/bart-booksum-tropes
+/bart_booksum_tropes_1
+/results
 ./bart_booksum_tropes
 experiment/bart_booksum_tropes
 /bart_booksum_tropes
+/fine_tuned_bart_book_tags
+experiment/fine_tuned_bart_book_tags
+/fine_tuned_bart_book_tags*
