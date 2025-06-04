@@ -1,0 +1,33 @@
+Original_Tag,Cluster,Frequency_Estimate,Action,Reasoning
+Romance,Romance_Dynamics,Medium-High,Consolidate,Semantically similar romance themes
+Contemporary Romance,Romance_Dynamics,Medium-High,Consolidate,Semantically similar romance themes
+Romantic Comedy,Romance_Dynamics,Medium-High,Consolidate,Semantically similar romance themes
+Love stories,Romance_Dynamics,Medium-High,Consolidate,Semantically similar romance themes
+Enemies to lovers,Romance_Dynamics,Medium-High,Consolidate,Semantically similar romance themes
+Arranged marriage,Romance_Dynamics,Medium-High,Consolidate,Semantically similar romance themes
+romcom,Romance_Dynamics,Medium-High,Consolidate,Semantically similar romance themes
+romcoms,Romance_Dynamics,Medium-High,Consolidate,Semantically similar romance themes
+Murder,Crime_Mystery,Medium,Consolidate,Crime and mystery related themes
+Crime,Crime_Mystery,Medium,Consolidate,Crime and mystery related themes
+Detective,Crime_Mystery,Medium,Consolidate,Crime and mystery related themes
+Mystery,Crime_Mystery,Medium,Consolidate,Crime and mystery related themes
+Suspense,Crime_Mystery,Medium,Consolidate,Crime and mystery related themes
+Thriller,Crime_Mystery,Medium,Consolidate,Crime and mystery related themes
+Criminal investigation,Crime_Mystery,Medium,Consolidate,Crime and mystery related themes
+Police,Crime_Mystery,Medium,Consolidate,Crime and mystery related themes
+True crime,Crime_Mystery,Medium,Consolidate,Crime and mystery related themes
+Fantasy,Fantasy,Very High,Keep,"High frequency, distinct meaning"
+Adventure,Adventure,Very High,Keep,"High frequency, distinct meaning"
+Young Adult,Young Adult,Very High,Keep,"High frequency, distinct meaning"
+Science fiction,Science fiction,Very High,Keep,"High frequency, distinct meaning"
+Classics,Classics,Very High,Keep,"High frequency, distinct meaning"
+detective,REMOVE,Very Low (1 book),Remove,"Too rare, insufficient data"
+Vietnam War,REMOVE,Very Low (1 book),Remove,"Too rare, insufficient data"
+Television plays,REMOVE,Very Low (1 book),Remove,"Too rare, insufficient data"
+Homeless children,REMOVE,Very Low (1 book),Remove,"Too rare, insufficient data"
+Debt,REMOVE,Very Low (1 book),Remove,"Too rare, insufficient data"
+Fiction,REMOVE,Cross-genre,Remove,Appears across many genres
+Nonfiction,REMOVE,Cross-genre,Remove,Appears across many genres
+War,Thematic_War,Cross-genre,Keep as theme,Meaningful theme despite cross-genre
+LGBTQ,Thematic_LGBTQ,Cross-genre,Keep as theme,Meaningful theme despite cross-genre
+Biography & Autobiography,Thematic_Biography_&_Autobiography,Cross-genre,Keep as theme,Meaningful theme despite cross-genre
