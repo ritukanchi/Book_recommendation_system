@@ -7,3 +7,5 @@ experiment/bart_booksum_tropes
 /fine_tuned_bart_book_tags
 experiment/fine_tuned_bart_book_tags
 /fine_tuned_bart_book_tags*
+/book-genre-classifier
+/finetuned-bart-book-classifier
