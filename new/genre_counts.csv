@@ -1,0 +1,868 @@
+Genre,Count
+Young Adult,11320
+Fiction,26007
+Science Fiction,6821
+Dystopia,1413
+Fantasy,23722
+Classics,6379
+Historical,10868
+Historical Fiction,6448
+Academic,974
+School,586
+Romance,18732
+Paranormal,8018
+Vampires,1695
+Childrens,5473
+Literature,4601
+Politics,1051
+Novels,2554
+Read For School,127
+Contemporary,6064
+Humor,2622
+Picture Books,547
+Mystery,7960
+Thriller,3583
+Horror,2575
+Gothic,300
+19th Century,283
+Classic Literature,60
+European Literature,3011
+British Literature,552
+Plays,684
+Drama,607
+High School,150
+Poetry,1325
+Philosophy,2056
+Spirituality,888
+Inspirational,243
+Adventure,2367
+Self Help,1057
+Cultural,5272
+Russia,547
+Russian Literature,325
+Adult,933
+American,657
+Time Travel,407
+Canada,314
+Middle Grade,1266
+Audiobook,626
+Coming Of Age,180
+Science Fiction Fantasy,775
+Magical Realism,411
+Epic Fantasy,626
+Mythology,891
+War,1989
+Apocalyptic,385
+Post Apocalyptic,305
+Animals,1116
+Feminism,340
+Short Stories,1850
+Crime,2233
+Detective,172
+Womens Fiction,1677
+Chick Lit,1641
+Psychology,932
+Mental Health,322
+Mental Illness,151
+Health,458
+Historical Romance,1062
+Nonfiction,7727
+Autobiography,2067
+Memoir,1658
+Biography,2758
+Africa,337
+Religion,3001
+Spanish Literature,277
+20th Century,198
+Literary Fiction,582
+Christian,1832
+Adult Fiction,1427
+Steampunk,256
+France,990
+French Literature,347
+Travel,514
+Dragons,378
+Angels,365
+True Crime,215
+Westerns,307
+Urban Fantasy,1528
+Sequential Art,3633
+Graphic Novels,1452
+Comics,1692
+Theatre,238
+Australia,157
+Holiday,308
+Christmas,214
+Kids,31
+African American,264
+Comedy,348
+China,184
+Arthurian,88
+Erotica,1622
+Bdsm,404
+Prehistoric,10
+Realistic Fiction,1176
+Japan,376
+History,2841
+World War II,666
+Holocaust,200
+Biblical Fiction,32
+Biblical,6
+Book Club,131
+Art,594
+Shapeshifters,660
+Werewolves,324
+German Literature,535
+India,298
+Christianity,626
+Dogs,98
+Supernatural,341
+Magic,1398
+Paranormal Romance,1709
+Teen,453
+Fairy Tales,470
+Asian Literature,817
+Japanese Literature,244
+Christian Fiction,1142
+,3242
+Family,221
+New Adult,1469
+Contemporary Romance,2182
+Northern Africa,103
+Egypt,79
+Writing,674
+Books About Books,93
+Environment,350
+Nature,256
+Southern,141
+Lgbt,903
+Science,1530
+Suspense,1160
+18th Century,67
+Military History,260
+Civil War,110
+Erotic Romance,225
+Islam,267
+Irish Literature,134
+Aliens,149
+Legal Thriller,36
+Food and Drink,410
+Food,174
+Biology,268
+Evolution,78
+High Fantasy,465
+Asia,227
+Abandoned,253
+Jewish,121
+Music,461
+Cyberpunk,105
+Ireland,170
+Essays,379
+Fairies,233
+Fae,108
+Atheism,45
+Political Science,44
+Ancient,24
+College,210
+Witches,267
+Southern Africa,49
+South Africa,42
+Zombies,245
+Victorian,69
+Germany,110
+Nobel Prize,70
+Love,103
+Space,272
+Speculative Fiction,80
+Eastern Africa,45
+Ethiopia,6
+Medicine,100
+Space Opera,218
+Sports and Games,506
+Sports,620
+Business,697
+Military Fiction,493
+Leadership,134
+North American Hi...,248
+American History,284
+Presidents,44
+Spy Thriller,241
+Espionage,233
+Juvenile,142
+Physics,147
+Italian Literature,208
+Italy,237
+Love Story,40
+Did Not Finish,420
+Lds,164
+Church,58
+Funny,290
+Noir,108
+Nutrition,25
+Judaism,64
+Astronomy,45
+Mystery Thriller,595
+Economics,344
+Sociology,572
+Abuse,313
+Dark,341
+Israel,41
+Media Tie In,317
+Movies,69
+Personal Development,228
+Productivity,35
+Management,65
+Language,222
+English Literature,25
+Retellings,193
+Death,53
+Relationships,101
+Marriage,50
+Horses,140
+Reference,437
+Denmark,16
+Scandinavian Literature,125
+Demons,289
+Survival,89
+Mathematics,81
+Theology,354
+World War I,64
+Dc Comics,183
+Batman,58
+Graphic Novels Comics,322
+Comic Book,216
+Alternate History,98
+Scotland,115
+Latin American,75
+Western Africa,37
+Liberia,2
+Sierra Leone,2
+Law,43
+Romantic Suspense,412
+Polish Literature,140
+Race,92
+Sudan,7
+New Age,33
+Dark Fantasy,91
+Indian Literature,127
+Southern Gothic,42
+Faith,204
+Spain,100
+Polyamory,11
+Polygamy,6
+Warfare,31
+Fighters,31
+Buddhism,106
+Young Adult Contemporary,37
+Young Adult Romance,21
+Turkish Literature,147
+Turkish,120
+Baseball,58
+True Story,34
+Aviation,26
+New York,74
+Epic,55
+Skepticism,7
+Cookbooks,89
+Medieval,243
+Biography Memoir,265
+Military,125
+Action,318
+Humanities,82
+Ukraine,7
+Finance,127
+Medieval History,16
+European History,46
+Manga,927
+Medical,104
+Murder Mystery,11
+Americana,19
+Ghosts,273
+Young Adult Fantasy,75
+Glbt,335
+Queer,213
+Gay,138
+Social Issues,37
+Poverty,14
+Social Movements,45
+Social Justice,46
+Unfinished,76
+Nigeria,18
+Wildlife,6
+Roman,213
+Road Trip,25
+Indonesian Literature,234
+Personal Finance,23
+Currency,42
+Money,42
+Entrepreneurship,33
+Buisness,21
+Portuguese Literature,130
+Portugal,82
+The United States Of America,60
+Novella,175
+American Civil War,37
+Anthropology,129
+Czech Literature,64
+American Revolution,39
+Finnish Literature,79
+Regency,263
+Dungeons and Dragons,58
+Dragonlance,15
+Comics Manga,50
+Occult,68
+Games,117
+Gaming,22
+Forgotten Realms,38
+Storytime,28
+Rabbits,2
+Iran,50
+Dutch Literature,83
+Pulp,18
+Greek Mythology,29
+Education,136
+M M Romance,454
+Pirates,70
+Dinosaurs,11
+Gender,58
+Swedish Literature,94
+Sweden,41
+Historical Fantasy,31
+Bulgarian Literature,34
+Star Wars,113
+Amazon,109
+Pakistan,45
+Paranormal Urban Fantasy,3
+Greece,48
+World History,43
+Superheroes,377
+Wolves,18
+Menage,127
+Anthologies,257
+Mermaids,84
+Fitness,23
+Fan Fiction,20
+Brazil,61
+Latin American Literature,17
+Poetry Plays,3
+Ancient History,43
+Christian Living,195
+Rock N Roll,5
+Musicians,11
+Tragedy,8
+Romanian Literature,94
+Architecture,24
+Technology,87
+Chinese Literature,24
+Hard Boiled,4
+Neuroscience,71
+Transgender,9
+Womens,109
+Sports Romance,78
+Culture,122
+Pop Culture,28
+Banned Books,16
+Medievalism,17
+Romanticism,17
+African Literature,34
+Egyptian Literature,6
+Sexuality,61
+Lds Fiction,47
+Romantic,27
+English History,32
+Tudor Period,32
+Gardening,21
+Rwanda,11
+Journalism,60
+Hungarian Literature,30
+21st Century,38
+Somalia,1
+Fantasy Romance,44
+Western Romance,28
+Hockey,20
+Prayer,31
+Logic,8
+Cats,103
+Christian Non Fiction,46
+Catholic,58
+Witchcraft,14
+Urban,81
+African American Literature,18
+Combat,16
+Martial Arts,23
+Parenting,137
+Adoption,26
+Video Games,39
+Hugo Awards,10
+Algeria,5
+Amish,78
+Cooking,95
+Vegan,16
+Vegetarian,2
+Vegetarianism,1
+Young Adult Paranormal,12
+Halloween,23
+Popular Science,39
+Communication,28
+Lesbian,156
+Heroic Fantasy,72
+Poland,52
+Cycling,11
+Historical Mystery,102
+Canadian Literature,36
+Teaching,29
+Chapter Books,67
+Bande Dessinée,78
+Ghost Stories,28
+Textbooks,31
+Drawing,12
+Category Romance,56
+Love Inspired,14
+Christian Romance,121
+Crafts,20
+Knitting,6
+Cinderella,4
+16th Century,12
+Weird Fiction,33
+New Weird,10
+Polyamorous,22
+Reverse Harem,18
+Christian Fantasy,44
+Modern,36
+Sword and Sorcery,44
+Art History,51
+Photography,71
+Theory,100
+Genetics,10
+Hungary,22
+Social Science,30
+Lovecraftian,35
+Cthulhu Mythos,9
+Natural History,47
+Design,37
+Disability,42
+Psychoanalysis,21
+Social,5
+School Stories,20
+Boarding School,18
+Danish,43
+Kenya,14
+17th Century,15
+Metaphysics,31
+Collections,58
+Harlequin,57
+Academia,5
+Government,7
+Marathi,21
+Seinen,36
+Slice Of Life,16
+Romania,30
+Emergency Services,11
+Police,5
+Art Design,8
+Science Fiction Romance,26
+Anime,20
+Comic Strips,29
+Brain,20
+Fat,5
+Fat Acceptance,3
+Film,77
+Basketball,23
+Military Science Fiction,10
+Shojo,78
+Classical Studies,1
+Marvel,128
+X Men,22
+Linguistics,31
+Shonen,55
+Computer Science,105
+Computers,32
+Serbian Literature,13
+Mysticism,9
+Superman,17
+Gender Studies,13
+Mountaineering,20
+Climbing,9
+Outdoors,23
+Football,57
+Soccer,30
+Cozy Mystery,166
+Culinary,5
+Foodie,8
+How To,15
+Futuristic,19
+Beauty and The Beast,15
+Counter Culture,4
+Bizarro Fiction,5
+Engineering,12
+Georgian,12
+Love Inspired Historical,3
+Robots,6
+Interracial Romance,22
+Native Americans,9
+Regency Romance,69
+Judaica,16
+Scripture,8
+International Dev...,5
+Human Development,5
+Old Testament,3
+Light Novel,53
+Plants,6
+Taoism,11
+Eastern Philosophy,6
+Counselling,16
+American Revolutionary War,10
+Albanian Literature,10
+Lebanon,11
+Church History,9
+Bangladesh,10
+Unicorns,9
+History Of Science,10
+Mormonism,7
+Clean Romance,31
+Tea,1
+Mixed Martial Arts,7
+Hard Science Fiction,4
+Maritime,4
+Cities,12
+Urban Planning,2
+Urbanism,2
+Hinduism,13
+Zen,14
+Zimbabwe,7
+Russian History,22
+Bulgaria,2
+Animal Fiction,14
+Guides,4
+Trivia,5
+Social Work,1
+Utopia,6
+French Revolution,9
+Ghana,6
+Punk,11
+Young Adult Historical Fiction,7
+Gay Fiction,22
+Fairy Tale Retellings,25
+Young Readers,7
+Birds,17
+Tarot,4
+Diets,9
+Psychological Thriller,36
+Harlequin Heartwarming,6
+Terrorism,17
+Baha I,6
+Programming,24
+Technical,16
+Software,13
+Criticism,64
+Literary Criticism,39
+Research,23
+M M F,17
+Usability,1
+Website Design,1
+Role Playing Games,19
+Hip Hop,5
+Manhwa,5
+40k,13
+International,6
+Tasmania,2
+Own,9
+2nd Grade,10
+Musicals,5
+Splatterpunk,13
+Russian Revolution,2
+Pornography,2
+Nsfw,1
+Belgium,8
+Mozambique,3
+Artificial Intelligence,5
+Gay Romance,15
+Gay For You,15
+Us Presidents,3
+Webcomic,13
+14th Century,3
+Plantagenet,1
+Walking,2
+Yaoi,62
+Boys Love,25
+Modern Classics,9
+Illness,4
+Activism,12
+Buffy The Vampire Slayer,13
+Amish Fiction,39
+Futurism,6
+Esoterica,23
+Astrology,11
+Komik,17
+Ecology,23
+Psychiatry,8
+Lesbian Fiction,35
+Thelema,3
+Geology,5
+Quantum Mechanics,3
+Childrens Classics,3
+M M M,6
+Folklore,33
+New Testament,3
+15th Century,2
+Time Travel Romance,17
+Firefighters,6
+World Of Warcraft,12
+Warcraft,6
+Mmorpg,6
+Art and Photography,10
+Diary,18
+Epic Poetry,2
+Chemistry,5
+Lesbian Romance,28
+Quilting,5
+Morocco,12
+Mali,2
+Transport,9
+Microhistory,3
+Spider Man,8
+Doctor Who,50
+Belgian,5
+Sci Fi Fantasy,3
+Cartoon,6
+Sustainability,16
+Travelogue,10
+Railways,2
+Trains,1
+Society,15
+Romanovs,6
+Paranormal Mystery,24
+Ethnography,5
+Eritrea,1
+Medieval Romance,15
+Archaeology,11
+Egyptology,1
+Grad School,10
+Alternative Medicine,2
+Herbs,2
+Dictionaries,2
+Canon,3
+Earth,5
+The World,5
+Gothic Romance,12
+Female Authors,12
+Paganism,15
+Prehistory,3
+Sex Work,7
+Prostitution,2
+Alcohol,8
+Museology,4
+Museums,4
+Couture,31
+Fashion,31
+Agriculture,9
+Horticulture,1
+Wizards,3
+African American Romance,9
+Tv,22
+Short Story Collection,3
+Botswana,6
+Social Media,6
+Sewing,2
+God,3
+Mills and Boon,1
+Military Romance,8
+Harlequin Desire,4
+Muslims,2
+Flash Fiction,1
+Food History,2
+Queer Lit,2
+Students,1
+Harem,2
+Alchemy,2
+Cult Classics,1
+Central Africa,5
+Democratic Republic Of The ...,2
+Magick,10
+Tanzania,1
+1917,1
+Journal,3
+Scandinavian Lite...,4
+Nordic Noir,4
+Teachers,1
+Anarchism,3
+Star Trek,30
+Star Trek The Next Generation,5
+Far Right,1
+Loveswept,2
+M F M,4
+Journaling,6
+Chess,11
+Geography,12
+Internet,7
+International Rel...,2
+International Development,2
+Love Inspired Suspense,1
+Comix,18
+Wicca,6
+Roman Britain,1
+Namibia,1
+Palaeontology,2
+New Adult Romance,5
+Nerd,2
+Coding,3
+Hackers,3
+Surreal,4
+Ecclesiology,2
+Conservation,4
+M M Fantasy,5
+Asexual,4
+Bisexual,4
+Science Fiction R...,1
+Futuristic Romance,1
+Electrical Engineering,1
+Angola,3
+Disease,1
+International Relations,9
+Science Nature,5
+Weird West,3
+Nursery Rhymes,2
+Adolescence,1
+Cross Dressing,2
+Muslimah,2
+Christian Historical Fiction,10
+Josei,4
+Wilderness,1
+Family Law,15
+Fostering,14
+Divination,2
+Field Guides,2
+Beer,5
+Ukrainian Literature,8
+Dying Earth,2
+United States,9
+Gender and Sexuality,3
+Cultural Studies,4
+Horse Racing,1
+Labor,1
+1st Grade,5
+Soviet History,1
+漫画,1
+Google,2
+Academics,1
+English Civil War,1
+Spanish History,1
+Siglo De Oro,1
+Nurses,5
+Nursing,5
+Mine,4
+Spanish Civil War,3
+Golden Age Mystery,2
+Erotic Horror,1
+Harlequin Blaze,3
+Civil War History,1
+Star Trek Deep Space Nine,4
+Semiotics,3
+Gods,2
+Strippers,1
+Gothic Horror,1
+Gamebooks,2
+Choose Your Own Adventure,2
+Spiritualism,1
+Climate Change,4
+Theosophy,3
+Music Biography,1
+Planets,1
+Ivory Coast,3
+Woodwork,1
+Satanism,1
+Web,1
+Japanese History,3
+Post Colonial,1
+Native American History,1
+Game Design,3
+Silhouette,1
+Jazz,9
+Princesses,2
+Graphic Non Fiction,1
+Womens Studies,6
+Gnosticism,1
+Genderqueer,2
+Goddess,1
+Plus Size,1
+The Americas,1
+World Of Darkness,4
+Benin,1
+Queer Studies,3
+Harlequin Romance,1
+Number,8
+Counting,5
+Harlequin Historical,1
+Cartography,3
+Maps,3
+American Fiction,5
+Gastronomy,1
+Folk Tales,6
+Fables,3
+Jewellery,1
+Graphic Novels Manga,2
+11th Century,4
+Wine,3
+Aspergers,1
+Mail Order Brides,1
+History and Politics,2
+Comics Bd,2
+Harlequin Nocturne,2
+Wonder Woman,2
+Senegal,2
+Green,3
+Cuisine,1
+Manga Romance,1
+Urban Studies,3
+Class,2
+M M Paranormal,1
+Brewing,1
+Shounen Ai,2
+Divorce,1
+12th Century,3
+Food Writing,2
+Colouring Books,1
+Esp,1
+Banking,1
+Aeroplanes,3
+Yuri,2
+Go,1
+Motorcycle,2
+M M Science Fiction,1
+Planetary Romance,1
+Western Historical Romance,2
+Adaptations,1
+Cults,2
+Algorithms,1
+M M Historical Romance,2
+Library Science,2
+Information Science,1
+Star Trek Voyager,1
+Led Zeppelin,1
+Swashbuckling,1
+Food Preservation,1
+Battle Of Britain,1
+Low Fantasy,1
+Ornithology,1
+13th Century,2
+Aircraft,1
+Traditional Regency,1
+Guidebook,1
+10th Century,3
+Uganda,1
+Sword and Planet,1
+German History,1
+Nazi Party,1
+Cars,1
+Hqn,1
+Evangelism,1
+Subways,1
+London Underground,1
+Apple,1
+Local History,1
+Disability Studies,1
+Peak Oil,1
+Social Change,1
+Health Care,1
+Read For College,1
+Anthropomorphic,1
